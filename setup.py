@@ -24,7 +24,7 @@ setup(
 
     author = 'melodypapa',
     author_email = "melodypapa@outlook.com",
-    url="",
+    url="https://github.com/melodypapa/py-ea-model",
 
     packages = find_packages(where='src'),
     package_dir= {'': 'src'},
